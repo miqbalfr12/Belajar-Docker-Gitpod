@@ -17,7 +17,7 @@
 
 ---
 
-> GitHub [@amitmerchant1990](https://github.com/miqbalfr12) &nbsp;&middot;&nbsp;
+> GitHub [@miqbalfr12](https://github.com/miqbalfr12) &nbsp;&middot;&nbsp;
 > Instagram [@miqbalfr12](https://instagram.com/miqbalfr12)
 
 [contributors-shield]: https://img.shields.io/github/contributors/miqbalfr12/Belajar-Docker-Gitpod.svg?style=for-the-badge
