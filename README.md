@@ -20,3 +20,11 @@
 > GitHub [@amitmerchant1990](https://github.com/miqbalfr12) &nbsp;&middot;&nbsp;
 > Instagram [@miqbalfr12](https://instagram.com/miqbalfr12)
 
+[contributors-shield]: https://img.shields.io/github/contributors/miqbalfr12/Belajar-Docker-Gitpod.svg?style=for-the-badge
+[contributors-url]: https://github.com/miqbalfr12/Belajar-Docker-Gitpod/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/miqbalfr12/Belajar-Docker-Gitpod.svg?style=for-the-badge
+[forks-url]: https://github.com/miqbalfr12/Belajar-Docker-Gitpod/network/members
+[stars-shield]: https://img.shields.io/github/stars/miqbalfr12/Belajar-Docker-Gitpod.svg?style=for-the-badge
+[stars-url]: https://github.com/miqbalfr12/Belajar-Docker-Gitpod/stargazers
+[issues-shield]: https://img.shields.io/github/issues/miqbalfr12/Belajar-Docker-Gitpod.svg?style=for-the-badge
+[issues-url]: https://github.com/miqbalfr12/Belajar-Docker-Gitpod/issues
